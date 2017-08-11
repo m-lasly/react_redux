@@ -16,6 +16,7 @@ class BookList extends Component {
       <ul className="list-group col-md-4">
         {this.renderList()}
       </ul>
+      
 
     )
   }
@@ -27,4 +28,4 @@ function mapStateToProps(state) {
 }
 
 
-export default connect(state)(BookList;
+export default connect(state)(BookList);
