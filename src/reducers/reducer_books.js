@@ -2,19 +2,19 @@ export default function() {
   return [
 
     {
-      title;
-      "javascript: The Good Parts"
-    } {
-      title;
+      title:
+      'javascript: The Good Parts'
+    } ,{
+      title:
       'Harry Potter'
-    } {
-      title;
+    }, {
+      title:
       'The Dark Tower'
-    } {
-      title;
+    } ,{
+      title:
       'Ruby & rails'
-    } {
-      title;
+    } ,{
+      title:
       'Hello javascript'
     }
 
